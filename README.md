@@ -16,3 +16,10 @@ git add . - to stage all files
 git reset HEAD filename - To unstage the staged file
 git reset HEAD . - To unstage all files
 
+
+git commit
+
+git push
+
+git log --follow filename - To check the log of the specific file
+
